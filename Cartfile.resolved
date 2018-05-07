@@ -1,0 +1,5 @@
+github "Kuniwak/WiFiQRCodeKit" "v0.3"
+github "ReactiveX/RxSwift" "4.1.2"
+github "httpswift/swifter" "1.4.0"
+github "mac-cain13/R.swift.Library" "v4.0.0"
+github "yannickl/QRCodeReader.swift" "8.1.1"
